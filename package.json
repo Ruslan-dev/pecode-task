@@ -1,0 +1,7 @@
+{
+  "name": "test-project",
+  "dependencies": {
+    "cypress": "^9.2.0",
+    "mochawesome": "^7.0.1"
+  }
+}
